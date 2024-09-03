@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+/* Ensure modal is vertically centered */
+.modal-dialog-centered {
+    display: flex;
+    align-items: center;
+}
